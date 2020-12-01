@@ -1,0 +1,9 @@
+[submodule "dasatomic.com/themes/themes/ananke"]
+	path = dasatomic.com/themes/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "test.com/themes/ananke"]
+	path = test.com/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "dasatomic.com/themes/ananke"]
+	path = dasatomic.com/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
